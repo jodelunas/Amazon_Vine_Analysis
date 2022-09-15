@@ -18,3 +18,6 @@ The vine table was filtered to create two new dataFrames for vine and unpaid rev
 
 <img width="679" alt="Unpaid_Reviews" src="https://user-images.githubusercontent.com/106006911/190466665-ab5c990c-5348-48fa-971e-f747c35db0f4.png">
 
+* Total Unpaid Reviews: 50522
+* Total 5 Star Reviews: 25220
+* Percent 5 Star Reviews: 49.92%
