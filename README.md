@@ -2,6 +2,9 @@
 
 ## Overview
 
+For this project, I chose a data set of reviews on cameras.  I used PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. I used PySpark  to determine if there is any bias toward favorable reviews from Vine members. 
+
+
 ## Results
 
 The vine table was filtered to create two new dataFrames for vine and unpaid reviews shown below.
