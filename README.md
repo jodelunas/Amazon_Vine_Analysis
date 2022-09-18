@@ -27,4 +27,4 @@ The vine table was filtered to create two new dataFrames for vine and unpaid rev
 
 ## Summary
 
-There doesn't seem to be a positivity bias for the reviews. The percentage of five star reviews is actually larger for unpaid reviews. To further confirm this it would be important to also analize the one star reviews. Along with filtering for one star review, two through four would also be helpful. Having statistics on the whole range would make sure there isn't a bias between paid and unpaid.
+There doesn't seem to be a positivity bias for the reviews. The percentage of five star reviews is actually larger for unpaid reviews. To further confirm this, it would be important to also analize the one star reviews. Along with filtering for one star review, two through four would also be helpful. Having statistics on the whole range would make sure there isn't a bias between paid and unpaid.
